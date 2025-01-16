@@ -25,9 +25,9 @@ I'm always working on exciting projects! Check out my repositories to see what I
 ## 📫 Let's Connect!  
 
 - 📧 Email: sharqonateamlc@gmail.com  
-- 💼 LinkedIn: [DilyorbekAbujabborov]([https://www.linkedin.com/in/Dilyorbek-Abdujabborov/])  
+- 💼 LinkedIn: [DilyorbekAbdujabborov](https://www.linkedin.com/in/dilyorbek-abdujabborov/)  
 - 🐦 Twitter: [@DAbujabborov](https://twitter.com/DAbujabborov)  
-- 📸 Instagram: [@DilyorbekAbdujabborov](https://instagram.com/DilyorbekAbujabborov)
+- 📸 Instagram: [@DilyorbekAbdujabborov](https://instagram.com/DilyorbekAbdujabborov)
 
 ## 📊 GitHub Stats  
 
