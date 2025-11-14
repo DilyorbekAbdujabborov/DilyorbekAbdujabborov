@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilyorbek Abdujabborov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A passionate Full stack developer from Uzbekistan</h3>
 
 ## 👨‍💻 About Me  
 
